@@ -1,0 +1,33 @@
+﻿<Window x:Class="CreatingTests.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CreatingTests"
+        mc:Ignorable="d"
+        MinHeight="500" MinWidth="400"
+        Title="MainWindow" Height="500" Width="400">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50*" />
+            <RowDefinition Height="65*" />
+            <RowDefinition Height="65*" />
+            <RowDefinition Height="45*" />
+            <RowDefinition Height="17*" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="4*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Button x:Name="TakeTheTest" Grid.Column="1" Content="Начать тест" Grid.Row="1" VerticalAlignment="Bottom" FontFamily="Castellar" Foreground="Black" BorderBrush="Gray" Click="TakeTheTest_Click" FontSize="18" Height="44" Cursor="Pen">
+        </Button>
+        <Button x:Name="ChangeTest" Grid.Column="1" Content="Изменить тест" Grid.Row="2" FontFamily="Castellar" Foreground="Black" BorderBrush="Gray" Click="ChangeTast_Click"  FontSize="18" Cursor="Pen" Height="45" VerticalAlignment="Bottom">
+        </Button>
+        <TextBlock TextWrapping="Wrap" Width="280" FontFamily="Castellar" FontSize="20" Foreground="Black" Grid.Column="1" Height="93" HorizontalAlignment="Center" VerticalAlignment="Top" Cursor="ArrowCD" IsEnabled="False" Margin="0,4,0,0"><Run Text=" "/><LineBreak/><Run Text="&#x9;     Добро "/><LineBreak/><Run Text="       пожаловать в создатель аа                  теста"/></TextBlock>
+        <TextBox x:Name="AdminWord" Grid.Column="1"  Grid.Row="3" TextWrapping="Wrap" VerticalAlignment="Bottom"  Width="208" Height="18" Visibility="Hidden"/>
+        <TextBlock x:Name="TextAdmin"  Grid.Row="3" TextWrapping="Wrap" Text="      Enter the admin code word" FontFamily="Castellar" Grid.Column="1" Height="14" VerticalAlignment="Top" HorizontalAlignment="Center" Width="266" Margin="0,38,0,0" Visibility="Hidden" />
+    </Grid>
+</Window>

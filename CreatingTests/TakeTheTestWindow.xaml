@@ -1,0 +1,35 @@
+﻿<Window x:Class="CreatingTests.TakeTheTestWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CreatingTests"
+        mc:Ignorable="d"
+        MinHeight="450" MinWidth="800"
+        Title="TakeTheTestWindow" Height="450" Width="800" Loaded="CreatingTest_loaded" Closing="WindowCreating_Closing">
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="109*" />
+            <RowDefinition Height="115*" />
+            <RowDefinition Height="102*" />
+            <RowDefinition Height="109*" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+
+        <Button x:Name="Exit" Content="Exit" FontFamily="Castellar" FontSize="18" Height="44" Cursor="No" Click="Exit_Click" Grid.ColumnSpan="1" >
+        </Button>
+
+        <Button x:Name="TestEditor" Content="Test editor" FontFamily="Castellar" FontSize="18" Height="44" Cursor="Pen" IsEnabled="False" Click="TestEditor_Click" Grid.Column="1" >
+        </Button>
+        <Button x:Name="StartTakingTheTest" Grid.Column="2" Content="Start Taking The Test" FontFamily="Castellar" FontSize="18" Height="44" Cursor="Pen" Click="StartTakingTheTest_Click">
+        </Button>
+
+        <Frame x:Name="StartTakingFalse" NavigationUIVisibility="Hidden" Grid.ColumnSpan="3" Grid.RowSpan="3" Grid.Row="1" />
+    </Grid>
+</Window>

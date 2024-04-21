@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\semen\\source\\repos\\CreatingTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F474C5-4841-4ABB-A473-CC37C4DCCB22}|CreatingTests\\CreatingTests.csproj|c:\\users\\semen\\source\\repos\\creatingtests\\creatingtests\\testeditottrue.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F474C5-4841-4ABB-A473-CC37C4DCCB22}|CreatingTests\\CreatingTests.csproj|solutionrelative:creatingtests\\testeditottrue.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F474C5-4841-4ABB-A473-CC37C4DCCB22}|CreatingTests\\CreatingTests.csproj|c:\\users\\semen\\source\\repos\\creatingtests\\creatingtests\\testeditottrue.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7F474C5-4841-4ABB-A473-CC37C4DCCB22}|CreatingTests\\CreatingTests.csproj|solutionrelative:creatingtests\\testeditottrue.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F474C5-4841-4ABB-A473-CC37C4DCCB22}|CreatingTests\\CreatingTests.csproj|c:\\users\\semen\\source\\repos\\creatingtests\\creatingtests\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7F474C5-4841-4ABB-A473-CC37C4DCCB22}|CreatingTests\\CreatingTests.csproj|solutionrelative:creatingtests\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F474C5-4841-4ABB-A473-CC37C4DCCB22}|CreatingTests\\CreatingTests.csproj|c:\\users\\semen\\source\\repos\\creatingtests\\creatingtests\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F474C5-4841-4ABB-A473-CC37C4DCCB22}|CreatingTests\\CreatingTests.csproj|solutionrelative:creatingtests\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F474C5-4841-4ABB-A473-CC37C4DCCB22}|CreatingTests\\CreatingTests.csproj|c:\\users\\semen\\source\\repos\\creatingtests\\creatingtests\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F474C5-4841-4ABB-A473-CC37C4DCCB22}|CreatingTests\\CreatingTests.csproj|solutionrelative:creatingtests\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F474C5-4841-4ABB-A473-CC37C4DCCB22}|CreatingTests\\CreatingTests.csproj|c:\\users\\semen\\source\\repos\\creatingtests\\creatingtests\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F474C5-4841-4ABB-A473-CC37C4DCCB22}|CreatingTests\\CreatingTests.csproj|solutionrelative:creatingtests\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestEditotTrue.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\CreatingTests\\CreatingTests\\TestEditotTrue.xaml.cs",
+              "RelativeDocumentMoniker": "CreatingTests\\TestEditotTrue.xaml.cs",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\CreatingTests\\CreatingTests\\TestEditotTrue.xaml.cs",
+              "RelativeToolTip": "CreatingTests\\TestEditotTrue.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:27:06.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\CreatingTests\\CreatingTests\\App.xaml",
+              "RelativeDocumentMoniker": "CreatingTests\\App.xaml",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\CreatingTests\\CreatingTests\\App.xaml",
+              "RelativeToolTip": "CreatingTests\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-21T15:26:29.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\CreatingTests\\CreatingTests\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "CreatingTests\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\CreatingTests\\CreatingTests\\AssemblyInfo.cs",
+              "RelativeToolTip": "CreatingTests\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:26:18.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestEditotTrue.xaml",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\CreatingTests\\CreatingTests\\TestEditotTrue.xaml",
+              "RelativeDocumentMoniker": "CreatingTests\\TestEditotTrue.xaml",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\CreatingTests\\CreatingTests\\TestEditotTrue.xaml",
+              "RelativeToolTip": "CreatingTests\\TestEditotTrue.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-21T15:26:10.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeSerializer.cs",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\CreatingTests\\CreatingTests\\DeSerializer.cs",
+              "RelativeDocumentMoniker": "CreatingTests\\DeSerializer.cs",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\CreatingTests\\CreatingTests\\DeSerializer.cs",
+              "RelativeToolTip": "CreatingTests\\DeSerializer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:25:26.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\CreatingTests\\CreatingTests\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CreatingTests\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\CreatingTests\\CreatingTests\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CreatingTests\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:25:11.904Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
